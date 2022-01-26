@@ -59,5 +59,9 @@
     display: block;
 }
 
+.item:hover, 
+.dropdown-item:hover {
+    background: rgb(73, 132, 226);
+}
 
 
